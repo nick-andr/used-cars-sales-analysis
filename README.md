@@ -39,23 +39,6 @@ The aim of this project is to:
    - Build interactive dashboards to highlight the most popular brands and models.  
    - Compare average prices across makes and model years.  
 
----
-
-## Interim Insights
-- Early cleaning shows that the dataset was heavily affected by duplicate and invalid entries.  
-- The most common makes are expected to be Ford, Chevrolet, Toyota, Honda, and Nissan.  
-- By combining SQL cleaning with Python analysis and Tableau visualization, the project will provide dealership-style recommendations on which brands/models offer the best balance of popularity and value.  
-
----
-
-## Next Steps
-- Finalize SQL regex mappings to cover modern EV brands (Rivian, Lucid, Polestar, Genesis).  
-- Conduct exploratory analysis in Python (average prices, mileage distributions).  
-- Create Tableau dashboards to communicate insights visually.  
-- Summarize recommendations for a used car dealership (e.g., which makes/models to prioritize).  
-
----
-
 ## Skills Demonstrated
 - SQL for data cleaning and preprocessing  
 - Data export pipelines into Python/BI tools  
