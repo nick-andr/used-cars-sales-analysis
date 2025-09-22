@@ -42,9 +42,10 @@ The aim of this project is to:
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](/"Used Car Sales in the US, 2018–2020, Through eBay.png")
+![Dashboard Preview](Used%20Car%20Sales%20in%20the%20US,%202018–2020,%20Through%20eBay.png)
 
-👉 Explore the interactive version here: [Tableau Public Dashboard]((https://public.tableau.com/views/used_car_sales/UsedCarSalesintheUS20182020ThrougheBay?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+👉 Explore the interactive version here: [Tableau Public Dashboard](https://public.tableau.com/views/used_car_sales/UsedCarSalesintheUS20182020ThrougheBay?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
