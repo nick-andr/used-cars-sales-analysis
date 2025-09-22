@@ -31,13 +31,30 @@ The aim of this project is to:
    - Deduplicated repeated entries.  
    - Reduced the dataset from ~144k to ~120k valid rows.  
 
-2. **Python (Analysis)** *(planned)*  
+2. **Python (Analysis)** 
    - Use `pandas` for aggregations and descriptive statistics.  
    - Explore average selling prices, mileage, and brand frequencies.  
 
-3. **Tableau (Visualization)** *(planned)*  
+3. **Tableau (Visualization)** 
    - Build interactive dashboards to highlight the most popular brands and models.  
-   - Compare average prices across makes and model years.  
+   - Compare average prices across makes and model years.
+  
+---
+
+## Dashboard Preview
+![Dashboard Preview](/"Used Car Sales in the US, 2018–2020, Through eBay.png")
+
+👉 Explore the interactive version here: [Tableau Public Dashboard]((https://public.tableau.com/views/used_car_sales/UsedCarSalesintheUS20182020ThrougheBay?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+---
+
+## Key Insights
+- **Market dominated by older cars:** The average listing is **26 years old**, with **~100k miles** and an average price of **$11,600**.  
+- **Private sellers drive supply:** Many low-value, older cars are listed by individuals rather than dealerships.  
+- **Price vs. age pattern:** Prices generally fall as cars age, but pick up again for **1970s and earlier models**, where **collector demand drives value**.  
+- **Brand trends:** Ford, Chevrolet, Toyota, Honda, and Nissan dominate the used-car landscape.  
+
+---
 
 ## Skills Demonstrated
 - SQL for data cleaning and preprocessing  
